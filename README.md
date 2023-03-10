@@ -51,7 +51,7 @@ pip install Nuitka
 pip install ordered-set
 ```
 
-## Coamndo para Convertir de .py a .exe
+## Comando para Convertir de .py a .exe
 
 ```
  py -m nuitka --mingw64 --onefile "nombreArchivo.py"
