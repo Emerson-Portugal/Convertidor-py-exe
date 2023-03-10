@@ -7,7 +7,7 @@ pip install -r ".\requirements.txt"
 ```
 
 
-## Coamndo para Convertir de .py a .exe
+## Comando para Convertir de .py a .exe
 
 ```
 py -m nuitka --mingw64 --onefile "calculadora.py."
